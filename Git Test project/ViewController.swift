@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("git")
         print("git2")
-        // Do any additional setup after loading the view.
     }
 
 
